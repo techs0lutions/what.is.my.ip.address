@@ -1,6 +1,6 @@
 # What is my IP Address?
 
-[![What is my IP Address?](gett-stateed.png)](https://github.com/techs0lutions/what.is.my.ip.address/)
+[![What is my IP Address?](gett-stateed.png)](https://icncomputer.com/what-is-my-ip-address//)
 
 The term IP address stands for Internet Protocol address. An Internet Protocol address is a unique numerical name that every electronic device connected to a computer network has.
 
